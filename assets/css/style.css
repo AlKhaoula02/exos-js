@@ -1,0 +1,42 @@
+body {
+    background-color: lightblue;
+  }
+  
+  
+  
+p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  
+h1 {
+    font-size: 1,5.rem;
+    color: white;
+    text-align: left;
+  }
+
+.mystyle {
+    font-size: 75px;
+  }
+
+#container
+  {
+    width:500px;
+    height:500px;
+    background:whitesmoke;
+    margin:10px;
+    position: relative;
+  }
+
+#carre {
+    width:100px;
+    height:100px;
+    background: black;
+    margin:10px;
+    position: absolute;
+    bottom:0;
+   }
+#lorem:hover
+{
+    cursor: pointer;
+}
